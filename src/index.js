@@ -206,8 +206,6 @@ module.exports = function solveSudoku(matrix) {
                   }
         
           }
-          console.log("=======================================");
-          console.log(html);
           return html;
       }; 
 
